@@ -1,0 +1,17 @@
+body{
+    background: aquamarine;
+}
+
+
+.body {
+    text-align: center;
+    color: rgb(188, 111, 207);
+    font-size: 25px;
+}
+
+.special {
+     font-style: italic;
+     text-align: initial;
+     font-size: 20px;
+
+}

@@ -1,0 +1,36 @@
+h1 {
+     font-size: 40px;
+     color:blue;
+     text-align: center;
+}
+h2 {
+    font-size: 35px;
+    color:green;
+    text-align: center;
+
+}
+
+body{
+    background: aquamarine;
+    margin-top: 20px;
+    margin-bottom: 30px ;
+}
+
+
+.body {
+    text-align: center;
+    color: rgb(188, 111, 207);
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.special {
+     font-style: italic;
+     text-align: inherit;
+     margin-bottom;: 20px;
+     margin-top: 30px;
+     font-size: 20px;
+     color:purple;
+     
+}
