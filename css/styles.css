@@ -1,17 +1,17 @@
 h1 {
      font-size: 40px;
-     color:blue;
+     color:rgb(255, 123, 0);
      text-align: center;
 }
 h2 {
     font-size: 35px;
-    color:green;
+    color:rgb(99, 192, 99);
     text-align: center;
 
 }
 
 body{
-    background: aquamarine;
+    background: rgb(147, 150, 149);
     margin-top: 20px;
     margin-bottom: 30px ;
 }
